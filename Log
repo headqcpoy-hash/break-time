@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ระบบพักเบรค</title>
+</head>
+<body>
+  <h1>ระบบลงเวลาพักเบรค</h1>
+  <button onclick="alert('เริ่มพักเบรค')">เริ่มพัก</button>
+  <button onclick="alert('จบพักเบรค')">จบพัก</button>
+</body>
+</html>
